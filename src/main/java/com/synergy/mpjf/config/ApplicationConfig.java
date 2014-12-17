@@ -1,4 +1,4 @@
-package com.synergy.mpjf.mpjf.config;
+package com.synergy.mpjf.config;
 
 import java.util.Properties;
 
